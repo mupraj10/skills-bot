@@ -3,6 +3,7 @@
 
 A simple slack bot that was built as hackathon project to connect a user with an expert coworker that can help with a topic, software or skill. 
 
+![slack skills bot](./screenshot.png)
 
 ### Tech Used
 
